@@ -1,0 +1,28 @@
+{
+  "hospedagem": [
+    {
+      "name": "Isabela",
+      "idade": 31,
+      "dog": "Pastor Alemão",
+      "price": 100
+    },
+    {
+      "name": "Renan",
+      "idade": 31,
+      "dog": "Vira lata",
+      "price": 90
+    },
+    {
+      "name": "Fernando",
+      "idade": 45,
+      "dog": "Bruce",
+      "price": 200
+    },
+    {
+      "name": "Carlos",
+      "idade": 14,
+      "dog": "Pudle",
+      "price": 45
+    }
+  ]
+}
